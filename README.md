@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishanu</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+[![MasterHead](https://github.com/foosayyy/foosayyy/blob/main/header.png)](https://github.com/foosayyy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foosayyy&label=Profile%20views&color=0e75b6&style=flat" alt="foosayyy" /> </p>
 
