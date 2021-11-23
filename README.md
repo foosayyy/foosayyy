@@ -34,4 +34,4 @@
 
 ![snake gif](https://github.com/foosayyy/foosayyy/blob/output/github-contribution-grid-snake.gif)
 
-<p><img align="center" src="https://github.com/foosayyy/foosayyy/blob/output/github-contribution-grid-snake.gif&theme=cobalt" alt="foosayyy" /></p>
+
