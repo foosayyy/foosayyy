@@ -1,4 +1,5 @@
-[![Head](https://github.com/foosayyy/foosayyy/blob/main/Untitled-2.png)](https://github.com/foosayyy)
+
+<p align="center"> <img src="https://github.com/foosayyy/foosayyy/blob/main/Untitled-2.png" alt="foosayyy" /> </p>
 
 [![MasterHead](https://github.com/foosayyy/foosayyy/blob/main/Untitled-1.png)](https://github.com/foosayyy)
 
