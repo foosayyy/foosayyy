@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/foosayyy" target="blank"><img src="https://img.shields.io/twitter/follow/foosayyy?logo=twitter&style=for-the-badge" alt="foosayyy" /></a> </p>
 
-- 🌱 I’m currently learning **Python, React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
 - 📫 How to reach me **dankrish26@gmail.com**
 
-- ⚡ Fun fact **I have completed all of the Assassin's Creed Series**
+- ⚡ Fun fact **I have completed all of the Assassin's Creed Game Series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
