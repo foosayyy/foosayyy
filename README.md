@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 📫 How to reach me **dankrish26@gmail.com**
+- 📫 How to reach me **dankrish62@gmail.com**
 
-- ⚡ Fun fact **I have completed all of the Assassin's Creed Game Series**
+- ⚡ Fun fact **I love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
