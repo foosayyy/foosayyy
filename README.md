@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dankrish62@gmail.com**
 
-- ⚡ Fun fact **I love music**
+- ⚡ **I love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
