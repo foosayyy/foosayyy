@@ -15,6 +15,7 @@ Currently learning how real software systems are built by creating small project
 * Backend Systems
 * Artificial Intelligence
 * Machine Learning
+* Minimalism
 
 ## Connect
 
